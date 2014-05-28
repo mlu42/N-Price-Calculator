@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NPriceCalculatorActivity!</string>
+    <string name="app_name">N Price Calculator</string>
+    <string name="fert_price_label">$/ton of fertilizer</string>
+    <string name="fert_price_hint">0</string>
+    <string name="n_percent_label">% Nitrogen</string>
+    <string name="n_percent_hint">0</string>
+    <string name="fert1">Ammonium Nitrate (34% N)</string>
+    <string name="fert2">Ammonium Sulfate (21% N)</string>
+    <string name="fert3">Anhydrous Ammonia (82% N)</string>
+    <string name="fert4">Urea (46% N)</string>
+    <string name="fert5">Urea Ammonium Nitrate (28% N)</string>
+    <string name="fert6">Urea Ammonium Nitrate (32% N)</string>
+    <string name="result_default">$0.00/lb N</string>
+    <string name="result_explanation">based on $789 per ton at 82%</string>
+    <string name="button_1">Add to list</string>
+    <string name="button_2">Compare prices</string>
+    <string name="header_text">Price list</string>
+    <string name="empty">No prices saved.</string>
+    <string name="info">Information</string>
+    <string name="info_text">This app was developed by the UW-Madison Nutrient and Pest Management (NPM) program. We would like to acknowledge the following individuals who helped on this project:\n\n
+	    					 Roger Schmidt, NPM Computer Specialist\n\n
+	    					 Carrie Laboski, Associate Professor, Department of Soil Science, University of Wisconsin-Madison\n\n
+	    					 Ramsey Statz, NPM Computer Programmer\n\n
+	    					 John Schmidt, NPM Computer Programmer</string>
+	<string name ="copyright_text">http://ipcm.wisc.edu\n\n
+	    						   &#169; 2014 Board of Regents of the University of Wisconsin System</string>
+	<string name="send_email">Send email</string>
+
+</resources>
